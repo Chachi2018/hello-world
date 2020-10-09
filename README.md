@@ -1,2 +1,3 @@
 # hello-world
-A little sandbox with misc files, projects, etc
+A little sandbox with misc files, projects, etc...
+I haven't used github in a long time. I am using a new login and starting over. I will start posting my projects on github and use it for my portfolio and other random stuff. 
